@@ -23,11 +23,16 @@ $(document).ready(function(){
 
     })
 
-    $("#phone").click(function(){
+    $("#phone").hover(function(){
 
         $("#phone_number").text("(408)-315-1453");
 
+        }, function(){
+
+            $("#phone_number").text("Phone Number");
+
     });
+
 
     $("#youtube").click(function(){
 
