@@ -18,7 +18,7 @@ $(document).ready(function(){
 
     $("#foxv_shop").click(function(){
 
-        window.open('https://foxvshop.herokuapp.com/');
+        window.open('https://www.facebook.com/foxvcomvn');
 
 
     })
@@ -36,7 +36,7 @@ $(document).ready(function(){
 
     $("#youtube").click(function(){
 
-        window.open('http://taidavis1.pythonanywhere.com/');
+        window.open('https://www.musicconverted.thagi3.com/');
 
     });
 
