@@ -39,7 +39,10 @@ $(document).ready(function(){
         window.open('https://www.musicconverted.thagi3.com/');
 
     });
-
     
+    $("#thagi_shop").click(function(){
+        
+        window.open('https://www.thagi3.com');
 
+    });
 });
