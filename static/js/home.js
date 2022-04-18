@@ -25,7 +25,7 @@ $(document).ready(function(){
 
     $("#phone").hover(function(){
 
-        $("#phone_number").text("(408)-315-1453");
+        $("#phone_number").text("(425)-520-0692");
 
         }, function(){
 
