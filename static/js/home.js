@@ -21,7 +21,7 @@ $(document).ready(function(){
     });
 
     $("#youtube").click(function(){
-        window.open('E:\Tailoi ECO\Project\Tai_NFC_CARD\static\resume\Resume (1).pdf' , '_blank');
+        window.open('/static/resume/Resume (1).pdf' , '_blank');
     });
     $("#resume").click(function(){
         window.open('');
