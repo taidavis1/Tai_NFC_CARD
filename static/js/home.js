@@ -26,7 +26,10 @@ $(document).ready(function(){
     $("#resume").click(function(){
         window.open('');
     });
-
     
+    $("#thagi_shop").click(function(){
+        
+        window.open('https://www.thagi3.com');
 
+    });
 });
