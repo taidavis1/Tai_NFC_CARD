@@ -21,10 +21,10 @@ $(document).ready(function(){
     });
 
     $("#youtube").click(function(){
-        window.open('/static/resume/Resume (1).pdf' , '_blank');
+        window.open('https://musicconverted.thagi3.com/');
     });
     $("#resume").click(function(){
-        window.open('');
+        window.open('/static/resume/Resume (1).pdf' , '_blank');
     });
     
     $("#thagi_shop").click(function(){
