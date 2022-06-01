@@ -12,10 +12,7 @@ app.config['SECRET_KEY'] = os.urandom(10)
 
 @app.route('/')
 def Home():
-    
     return render_template('home.html')
-
-
 
 #####################################3
 
