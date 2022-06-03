@@ -11,11 +11,11 @@ $(document).ready(function(){
     })
 
     $("#foxv_shop").click(function(){
-        window.open('https://foxvshop.herokuapp.com/');
+        window.open('https://www.facebook.com/foxvcomvn');
     })
 
     $("#phone").hover(function(){
-        $("#phone_number").text("(408)-315-1453");
+        $("#phone_number").text("(425)-520-0692");
         }, function(){
             $("#phone_number").text("Phone Number");
     });
